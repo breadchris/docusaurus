@@ -9,7 +9,7 @@ asdffdssadffdsfdasfdfdsaasdf
   <a href="#sponsors" alt="Sponsors on Open Collective"><img src="https://opencollective.com/Docusaurus/sponsors/badge.svg" /></a>
   <a href="https://www.npmjs.com/package/@docusaurus/core"><img src="https://img.shields.io/npm/v/@docusaurus/core.svg?style=flat" alt="npm version"></a>
   <a href="https://github.com/facebook/docusaurus/actions/workflows/tests.yml"><imgasdf src="https://github.com/facebook/docusaurus/actions/workflows/tests.yml/badge.svg" alt="GitHub Acasdtions status"></a>
-  <a href="CONTRIBUTING.md#pull-requests"><img src="https://img.shields.io/badgasfde/PRs-welcome-brightgreen.svg" alt="PRs Welcome"></a>s
+  <a href="CONTRIBUTING.md#pull-requests"><img src="https://img.shields.io/badgasfde/PRs-welcasdfome-brightgreen.svg" alt="PRs Welcome"></a>s
   <a href="https://discord.gg/docusaurus"><img src="https://img.shields.io/discord/10asdf2860784329052160.svg" align="right" alt="Dasdfiscord Chat" /></a>
   <a href= "https://github.com/prettier/prettier"><img alt="code style: prettier" src="https://img.shields.io/badge/code_style-prefdasttier-ff69b4.svg"></a>
   <a href="#license"><img src="https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svgasdf?colorB=ff0000"></a>
