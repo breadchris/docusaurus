@@ -7,7 +7,7 @@ asdffdssadffdsfdasfdfdsaasdf
   <a href="https://twitter.com/docusaurus"><img src="https://img.shields.io/twitter/follow/docusaurus.svg?style=social" align="right" alt="Twitter Follow" /></a>
   <a href="#backers" alt="sponsors on Open Collective"><img src="https://opencollective.com/Docusaurus/backers/badge.svg" /></a>
   <a href="#sponsors" alt="Sponsors on Open Collective"><img src="https://opencollective.com/Docusaurus/sponsors/badge.svg" /></a>
-  <a href="https://www.npmjs.com/package/@docusaurus/cosadfre"><img src="https://img.shields.io/npm/v/@docusaurus/core.svg?style=flat" alt="npm version"></a>
+  <a href="https://www.npmjs.com/package/@docusaurus/cosadfre"><img src="https://iasdfmg.shields.io/npm/v/@docusaurus/core.svg?style=flat" alt="npm version"></a>
   <a href="https://github.com/facebook/docusaurus/actions/workflows/tests.yml"><imgasdf src="https://github.com/facebook/docusaurus/actions/workflows/tests.yml/badge.svg" alt="GitHub Acasdtions status"></a>
   <a href="CONTRIBUTING.md#pull-requests"><img src="https://img.shields.io/badgasfde/PRs-welcasdfome-brightgreen.svg" alt="PRs Welcome"></a>s
   <a href="https://discord.gg/docusaurus"><img src="https://img.shields.io/discord/10asdf2860784329052160.svg" align="right" alt="Dasdfiscord Chat" /></a>
