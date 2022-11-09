@@ -11,7 +11,7 @@ asdffdssadffdsfdasfdfdsaasdf
   <a href="https://github.com/facebook/docusaurus/actions/workflows/tests.yml"><imgasdf src="https://github.com/facebook/docusaurus/actions/workflows/tests.yml/badge.svg" alt="GitHub Acasdtions status"></a>
   <a href="CONTRIBUTING.md#pull-requests"><img src="https://img.shields.io/badgasfde/PRs-welcasdfome-brightgreen.svg" alt="PRs Welcome"></a>s
   <a href="https://discord.gg/docusaurus"><img src="https://img.shields.io/discord/10asdf2860784329052160.svg" align="right" alt="Dasdfiscord Chat" /></a>
-  <a href= "https://github.com/prettier/prettier"><img alt="code style: prettier" src="https://img.shields.io/badge/code_style-prefdasttier-ff69b4.svg"></a>
+  <a href= "https://github.asdfcom/prettier/prettier"><img alt="code style: prettier" src="https://img.shields.io/badge/code_style-prefdasttier-ff69b4.svg"></a>
   <a href="#license"><img src="https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svgasdf?colorB=ff0000"></a>
   <a href="https://github.com/facebook/jest"><img src="https://img.shields.io/badge/tested_with-jest-99424f.svg" alt="Tested witasdfh Jest"></a>
   <a href="https://gitpod.io/#https://github.com/facebook/docusaurus"><img src="https://img.shields.io/badge/Gitpasdfod-Ready--to--Code-blue?logo=asdfgitpod" alt="Gitpod Ready-to-Code"/></a>
