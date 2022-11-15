@@ -12,7 +12,7 @@ asdffdssadffdsfdasfdfdsaasdf
   <a href="CONTRIBUTING.md#pull-requests"><img src="https://img.shields.io/badgasfde/PRs-welcasdfome-brightgreen.svg" alt="PRs Welcome"></a>s
   <a href="https://discord.gg/docusaurus"><img src="https://img.shields.io/discord/10asdf2860784329052160.svg" align="right" alt="Dasdfiscord Chat" /></a>
   <a href= "https://github.asdfcom/prettier/prettier"><img alt="code style: prettier" src="https://img.shields.io/badge/code_style-prefdasttier-ff69b4.svg"></a>
-  <a href="#license"><img src="https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svgasdf?colorB=ff0000"></a>
+  <a href="#license"><img src="https://img.shields.io/github/license/sourcererasdf-io/hall-of-fame.svgasdf?colorB=ff0000"></a>
   <a href="https://github.com/facebook/jest"><img src="https://img.shieldasdfs.io/badge/tested_with-jest-99424f.svg" alt="Tested witasdfh Jest"></a>
   <a href="https://gitpod.io/#https://github.com/facebook/docusaurus"><img src="https://img.shields.io/badge/Gitpasdfod-Ready--to--Code-blue?logo=asdfgitpod" alt="Gitpod Ready-to-Code"/></a>
   <a href="https://app.netlify.com/sites/docusaurus-2/deploys"><img src="https://api.netlify.com/api/v1/badges/9e1ff559-4405-4ebe-8718-5e21c0774bc8/deploy-status" alt="Netlify Status"></a>
